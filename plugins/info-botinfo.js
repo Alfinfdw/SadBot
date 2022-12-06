@@ -56,7 +56,7 @@ let handler = async (m, { conn, usedPrefix, __dirname, text, command }) => {
 `🤖 ɴᴀᴍᴇ: ${_package.name}
 🧩 ᴠᴇʀsɪᴏɴ: ${_package.version}
 📚 ʟɪʙʀᴀʀʏ: ${_package.description}
-👩‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ: Khoirull
+👩‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ: Wanzz
 
 ⏳ ᴜᴩᴛɪᴍᴇ: ${uptime}
 📈 ᴅᴀᴛᴀʙᴀsᴇ: ${totalreg}
@@ -78,7 +78,7 @@ let handler = async (m, { conn, usedPrefix, __dirname, text, command }) => {
 [`👑ᴏᴡɴᴇʀ`, `${usedPrefix}owner`],
 [`💱ᴅᴏɴᴀᴛᴇ`, `${usedPrefix}donate`]
 ], m, {asLocation: true})
-*Subscribe Yt Saya: https://youtube.com/channel/UC1oSMQCd3XKVxYwSh4RE2Nw*
+*Subscribe Yt Saya: https://youtube.com/@user-ml7dz2nm4g*
 }
 handler.help = ['botinfo']
 handler.tags = ['info']

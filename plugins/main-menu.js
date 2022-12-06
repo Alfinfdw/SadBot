@@ -212,7 +212,7 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname, args }) => {
 	title: `Category`,
 	rows: [
 	    {title: `🏷 ¦ Sewa BOT`, rowId: ".sewabot", description: "Menampilkan list harga sewa BOT"},
-	    {title: `🗿🚬 Sc Ini Direcode Oleh KhrlMstfa `, rowId: "p", description: "Subscribe Yt RullZy"},
+	    {title: `🗿🚬 Sc Ini Direcode Oleh Wanzz `, rowId: "p", description: "Subscribe Yt VERRYOFC"},
 	    {title: `🎉 ¦ UP Premium`, rowId: ".premium", description: "Menampilkan list harga upgrade premium"},
 	    {title: `🎁 ¦ Get Hadiah`, rowId: ".daily", description: 'Mau hadiah nggak kak?..'},
 	{title: `⭐ ¦ Rating`, rowId: ".rate", description: 'Jangan kasih rate rendah dong :/'},
@@ -259,7 +259,7 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname, args }) => {
 	    {title: `📰 ¦ Rules`, rowId: ".rules", description: `Peraturan menggunakan ${namebot}`},
 	    {title: `💹 ¦ Donasi`, rowId: ".donasi", description: 'Support BOT agar on 1 Minggu non stop'},
 	  {title: `📜 ¦ Rating`, rowId: ".rate", description: 'Support BOT agar Semangat update'},
-	  {title: `💡¦ Group Official KhrlMstfa`, rowId: ".groupbot", description: 'Jangan lupa mampir ya...'},
+	  {title: `💡¦ Group Official Wanzz`, rowId: ".groupbot", description: 'Jangan lupa mampir ya...'},
 	  {title: `📋 ¦ Thanks To «`, rowId: ".tqto", description: 'Kawan-kawan Yg membantu pembuatan bot ini...'},
 	  {title: `🗒 ¦ Kata Penutup`, rowId: ".galau", description: 'Terima kasih yang udah menggunakan bot ini dengan baik'},
       ]
@@ -277,7 +277,7 @@ let usrs = db.data.users[m.sender]
     let wktuwib = `${wibh} H ${wibm} M ${wibs} S`
  
 let tek = `
-  「 Rull-BOT ⁩㊣ 」
+  「 Wanzz⁩㊣ 」
 
  ╭──〔  𝐈𝐍𝐅𝐎 𝐔𝐒𝐄𝐑  〕─⬣ 
  │⬡ Pengguna :  *${await conn.getName(m.sender)}*
@@ -295,8 +295,8 @@ let tek = `
  │⬡ Pengguna Terdaftar :  *${Object.values(global.db.data.users).filter(user => user.registered == true).length}*
  │⬡ Penggunaan User : *${Object.keys(global.db.data.users).length}*
  │⬡ Os Platform : *${os.platform()}*
- │*Sc Ini Direcode Oleh KhrlMstfa.*
- │*Subscribe Juga Yt: https://youtube.com/channel/UC1oSMQCd3XKVxYwSh4RE2Nw*
+ │*Sc Ini Direcode Oleh Wanzz.*
+ │*Subscribe Juga Yt: youtube.com*
  ╰─────────────⬣
 `
 const listMessage = {
@@ -594,7 +594,7 @@ function _0x1766() {
             fileLength: fsizedoc,
             pageCount: fpagedoc,
             caption: text,
-            footer: titlebot + '\n⚡ Supported By KhrlMstfa',
+            footer: titlebot + '\n⚡ Supported By Wanzz',
             templateButtons: [
                 {
                     urlButton: {

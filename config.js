@@ -63,8 +63,8 @@ global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰' //Gausah di apa² in
 global.botclick = '𝍤 CLICK HERE' //Bebas, Kalau gw saranin mending gausah di ganti.
 global.after = 'Bot by https://youtube.com/@bupadtilive5079'
 global.author = '© Satirzz🗿' //Wm author
-global.acguest = 'Kamu akan Menggunakan akun guest dari Rull\n\nClick Button di bawah.'
-global.botintro = 'Hallo, Kenalin saya RullBot Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *KhrlMstfa* Saya di rilis pada tanggal\n🗓 ️_5/12/2022_'
+global.acguest = 'Kamu akan Menggunakan akun guest dari Wnz\n\nClick Button di bawah.'
+global.botintro = 'Hallo, Kenalin saya WanzBot Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh Wanzz* Saya di rilis pada tanggal\n🗓 ️_5/12/2022_'
 global.sc = 'https://telegra.ph/file/21f148af8e3551ede03b8.jpg'
 global.sallam = '💬 Waalaikumsallam'
 global.thumbBanned = 'https://telegra.ph/file/b810a9fbc18afc1aaa6c8.jpg'
@@ -465,17 +465,17 @@ global.fsizedoc = '99999999999999' // 10TB
 global.fpagedoc = '999' //Gausah di ganti.
 
 /*⫘⫘⫘⫘ BIO OWNER ⫘⫘⫘⫘⫘*/
-global.nameowner = 'KhrlMstfa'
-global.umurowner = '15 (Esempeh Kack:)'
-global.asalowner = 'Jatim,Trenggalek'
-global.nomorowner = 'wa.me/6287753812675'
-global.pacarowner = 'Kata Mamah Gabole Pacaran'
+global.nameowner = 'Wanzz'
+global.umurowner = '15 (Eawpeh Kack:)'
+global.asalowner = 'Yogyakarta'
+global.nomorowner = 'wa.me/6289653633058'
+global.pacarowner = 'Kata mamah Ga boleh'
 /*⫘⫘⫘⫘ HIASAN ⫘⫘⫘⫘⫘*/
 // DEFAULT MENU
 global.dmenut = '╭━•〔' //top
 global.dmenub = '│‣͎۪۫' //body
 global.dmenub2 = '│' //body for info cmd on Default menu
-global.dmenuf = '𝙏𝙃𝘼𝙉𝙆𝙎 𝙏𝙊\n\n◐ Fokus ID\n◐Khrl\n◐The.sad.boy01\n◐Kanna\n◐Nurutomo\n◐Bochilgaming\n◐Amirul\n◐Ilham\n◐Rasel\n◐Pemakai bot ini\n◐I love you\n\n© https://youtube.com/channel/UC1oSMQCd3XKVxYwSh4RE2Nw' //footer
+global.dmenuf = '𝙏𝙃𝘼𝙉𝙆𝙎 𝙏𝙊\n\n◐ Fokus ID\n◐Khrl\n◐The.sad.boy01\n◐Kanna\n◐Nurutomo\n◐Bochilgaming\n◐Amirul\n◐Ilham\n◐Rasel\n◐Pemakai bot ini\n◐I love you\n\n© instagram.com/wxoershinet' //footer
 
 // COMMAND MENU
 global.cmenut = '╭━•〔' //top
@@ -499,9 +499,9 @@ global.fpagedoc = '1'.repeat(10)
 global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
 
 /*⫘⫘⫘⫘ STICKER ⫘⫘⫘⫘⫘*/
-global.stickpack = 'Rull-MD'
-global.stickauth = `© Rull-MD\nOfficial by Whatsapp\nNomor: ${global.nomorbot}`
-global.packname = 'By Khrl'
+global.stickpack = 'WanzzXD'
+global.stickauth = `© Wanzz\nOfficial by Whatsapp\nNomor: ${global.nomorbot}`
+global.packname = 'By WNZ'
 
 
 global.multiplier = 38 // The higher, The harder levelup

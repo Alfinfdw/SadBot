@@ -41,28 +41,28 @@ global.sdc = 'discrod.com/stbleguys' //Discord Mu
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*⫘⫘⫘⫘ALL PAYMENT⫘⫘⫘⫘⫘*/
-global.pdana = '6289653633058' //Dana
-global.povo = '6289653633058' //Ovo
-global.pgopay = '6289653633058' //Gopay
-global.ppulsa = '6289653633058' //Pulsa 
-global.ppulsa2 = '6289653633058' //Pulsa, Kalau nomor cuma 1, yg ini kasih tanda -
+global.pdana = '4915256954581' //Dana
+global.povo = '4915256954581' //Ovo
+global.pgopay = '4915256954581' //Gopay
+global.ppulsa = '6285852939370' //Pulsa 
+global.ppulsa2 = '4915256954581' //Pulsa, Kalau nomor cuma 1, yg ini kasih tanda -
 global.psaweria = '-' //Saweria
 global.donate = '〔 Dᴏɴᴛ ғᴏʀɢᴇᴛ Dᴏɴᴀᴛɪᴏɴ 〕\n\n››╭─〘 *Donasi* 〙\n╭╡📮: Aelah Spam Aja Sampek Pegel🗿 Anj 🗿│\n┝‷✧ *pulsa:* -\n│┝‷✧ *Dana:* -\n│┝‷✧ *Gopay:* -\n│╰───···─────\n│⁺◛˖ Support Bot Dengan Cara Spam Aja Botnya 🗿\n╰──────────···───╮'
 
 /*⫘⫘⫘⫘ GLOBAL NOMOR ⫘⫘⫘⫘⫘*/
-global.nomorbot = '14438554284' //Nomor Bot mu
-global.nomorown = '6289653633058' //Nomormu
-global.namebot = 'Satir-MD' //Nama bot mu
-global.nameown = 'WanzzHusband' //Nama mu
+global.nomorbot = '6285852939370' //Nomor Bot mu
+global.nomorown = '4915256954581' //Nomormu
+global.namebot = 'Niluh-MD' //Nama bot mu
+global.nameown = 'Niluh' //Nama mu
 
 /*⫘⫘⫘⫘GLOBAL FUNCTION⫘⫘⫘⫘⫘*/
 //KALAU MAGER EDIT, MENDING GAUSAH DI APA² IN. SAMA AJA//
-global.swo = 'https://wa.me/6289653633058' //Nomor mu
+global.swo = 'https://wa.me/4915256954581' //Nomor mu
 global.linksc = 'https://chat.whatsapp.com/JkHMWX6tr4Z8GUwnic8Xvj' //Gausah di ganti, biar ga eror
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰' //Gausah di apa² in
 global.botclick = '𝍤 CLICK HERE' //Bebas, Kalau gw saranin mending gausah di ganti.
 global.after = 'Bot by https://youtube.com/@bupadtilive5079'
-global.author = '© Satirzz🗿' //Wm author
+global.author = '© Niluh🗿' //Wm author
 global.acguest = 'Kamu akan Menggunakan akun guest dari Rull\n\nClick Button di bawah.'
 global.botintro = 'Hallo, Kenalin saya RullBot Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *KhrlMstfa* Saya di rilis pada tanggal\n🗓 ️_5/12/2022_'
 global.sc = 'https://telegra.ph/file/21f148af8e3551ede03b8.jpg'
@@ -89,7 +89,7 @@ global.guest = 'https://telegra.ph/file/b0ac5006061e9bc535a8f.jpg'
 global.thumbmenfes = 'https://telegra.ph/file/4be6353aeb9057e44825f.jpg'
 /*⫘⫘⫘⫘ STAFF ⫘⫘⫘⫘⫘*/
 global.owner = [
-  ['6289653633058', 'Khrl', true] //Ini buat kamu!
+  ['4915256954581', 'Niluh', true] //Ini buat kamu!
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -143,9 +143,9 @@ global.APIKeys = { // APIKey Here
 
 /*⫘⫘⫘⫘ WATERMAK ⫘⫘⫘⫘⫘*/
 //GANTI JANGAN NGASAL.
-global.wm = '                「 赤 Satirzz-MD ⁩இ 」' //Wm
-global.wm2 = '➳༻❀ Satirzz-MD ❁ུ۪۪.;:୭̥.' //Name Wm
-global.wm3 = '赤 Satirzz-MD'
+global.wm = '                「 赤 Niluh-MD ⁩இ 」' //Wm
+global.wm2 = '➳༻❀ Niluh-MD ❁ུ۪۪.;:୭̥.' //Name Wm
+global.wm3 = '赤 Niluh-MD'
 global.hiasan = 'シ'
 global.botdate = `🗓️️ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
